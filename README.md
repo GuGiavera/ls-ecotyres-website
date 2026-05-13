@@ -35,12 +35,11 @@ O projeto foi criado utilizando **HTML**, **CSS** e **JavaScript**, com foco em 
 ## 📁 Estrutura do Projeto
 
 ```bash
-LS-Ecotyres/
+site-ls/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-└── assets/
 ```
 
 ---
