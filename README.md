@@ -1,6 +1,6 @@
 # LS Ecotyres 🚗🔥
 
-Site responsivo desenvolvido para a **LS Ecotyres**, uma loja especializada em pneus de alta performance e serviços automotivos.
+Site responsivo desenvolvido para a **LS Ecotyres**, uma fábrica especializada em pneus de alta performance e serviços automotivos.
 
 O projeto foi criado utilizando **HTML**, **CSS** e **JavaScript**, com foco em design moderno, responsividade e experiência do usuário.
 
@@ -98,7 +98,3 @@ O visual do projeto segue um estilo:
 Desenvolvido por Gustavo Giavera.
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
